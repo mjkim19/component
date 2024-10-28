@@ -1,0 +1,12 @@
+.orange-comp {
+  float: left;
+  width: 210px;
+  height: 210px;
+  padding: 20px;
+  background-color: rgb(255, 102, 0);
+}
+
+.orange-comp>.title {
+  font-size: 20px;
+  font-weight: bold;
+}
