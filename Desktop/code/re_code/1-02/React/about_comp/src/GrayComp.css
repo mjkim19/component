@@ -1,0 +1,12 @@
+.gray-comp {
+  float: left;
+  width: 210px;
+  height: 210px;
+  padding: 20px;
+  background-color: rgb(95, 94, 113)
+}
+
+.gray-comp>.title {
+  font-size: 20px;
+  font-weight: bold;
+}
